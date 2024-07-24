@@ -258,7 +258,6 @@ if __name__ == "__main__" :
     # Download the drive files
     google_services.download_drive_files_from_classroom(docs, drive)
     
-    
     # # Testing
     # module_docs = list(filter(
     #     lambda doc: google_services.match_substring_case_insensitive(
