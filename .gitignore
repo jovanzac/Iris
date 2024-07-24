@@ -1,0 +1,6 @@
+*.pickle
+*.pkl
+*.json
+rough.py
+__pycache__/
+.env
